@@ -1,0 +1,168 @@
+{
+    "created_time": "2021-06-17T14:17:27Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-17T14:17:47Z",
+            "modified_time": "2021-06-20T01:10:45Z",
+            "name": "pendahuluan.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-17T14:50:10Z",
+            "modified_time": "2021-06-20T01:14:45Z",
+            "name": "silabus.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-18T15:38:02Z",
+            "modified_time": "2021-06-19T20:46:04Z",
+            "name": "01-pendahuluan.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-18T15:41:48Z",
+            "modified_time": "2021-06-19T21:13:09Z",
+            "name": "02-klasifikasi-citra.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-18T15:44:09Z",
+            "modified_time": "2021-06-19T21:20:01Z",
+            "name": "03-platform.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-18T15:45:57Z",
+            "modified_time": "2021-06-19T14:29:44Z",
+            "name": "04-klasifikasi-linear.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-18T15:47:18Z",
+            "modified_time": "2021-06-19T14:29:59Z",
+            "name": "05-optimisasi.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-18T15:49:19Z",
+            "modified_time": "2021-06-19T14:30:10Z",
+            "name": "06-jaringan-saraf.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-18T15:50:56Z",
+            "modified_time": "2021-06-19T14:24:28Z",
+            "name": "08-hardware-pustaka.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-19T08:51:50Z",
+            "modified_time": "2021-06-19T21:38:17Z",
+            "name": "07-cnn.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-19T09:03:47Z",
+            "modified_time": "2021-06-19T09:11:27Z",
+            "name": "09-pra-proyek.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-19T09:04:13Z",
+            "modified_time": "2021-06-19T23:17:32Z",
+            "name": "10-proposal-proyek.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-19T09:04:34Z",
+            "modified_time": "2021-06-19T14:30:58Z",
+            "name": "11-pelatihan-cnn-1.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-19T09:04:40Z",
+            "modified_time": "2021-06-19T14:31:13Z",
+            "name": "12-pelatihan-cnn-2.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-19T09:04:53Z",
+            "modified_time": "2021-06-19T14:25:53Z",
+            "name": "13-arsitektur-cnn.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-06-19T09:05:20Z",
+            "modified_time": "2021-06-19T14:32:30Z",
+            "name": "14-topik-lanjut.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}
